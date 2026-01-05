@@ -6,7 +6,8 @@
 #include "../header/entity.h"
 
 class Humanoid : public Entity {
-//Structors
+
+//Constructors & Destructors
 public:
 	Humanoid();
 	Humanoid(string name);
@@ -17,6 +18,7 @@ public:
 public:
 	string Entity_GetName() override { return _name; }
 	string GetClassType() override { return  "Humanoid"; }
-}; //!
+
+}; 
 
 #endif // !_HUM_H_

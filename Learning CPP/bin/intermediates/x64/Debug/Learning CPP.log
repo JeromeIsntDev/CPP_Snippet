@@ -1,8 +1,2 @@
-﻿  entity.cpp
-  humanoid.cpp
-  main.cpp
-  vector.cpp
-  Generating Code...
-vector.obj : error LNK2005: "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,struct Vector2 const &)" (??6@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV01@AEBUVector2@@@Z) already defined in main.obj
-humanoid.obj : error LNK2019: unresolved external symbol "public: __cdecl Entity::Entity(class Entity const &)" (??0Entity@@QEAA@AEBV0@@Z) referenced in function "public: __cdecl Humanoid::Humanoid(class Humanoid const &)" (??0Humanoid@@QEAA@AEBV0@@Z)
-C:\Users\Emorej\Documents\Code Stuff\C++ Projects\Learning CPP\bin\x64\Debug\Learning CPP.exe : fatal error LNK1120: 1 unresolved externals
+﻿  main.cpp
+  Learning CPP.vcxproj -> C:\Users\Emorej\Downloads\CPP_Snippet_Guide\C++ Snippet\bin\x64\Debug\Learning CPP.exe

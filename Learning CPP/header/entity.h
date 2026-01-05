@@ -1,6 +1,8 @@
 #pragma once
 
 #ifndef _ENT_H_
+
+
 #define _ENT_H_
 
 #include <iostream>
@@ -15,27 +17,24 @@ class Entity : public iPrintable{
 protected:
 	float x, y;
 	string _name;
-//!Variables
 
-//Structors
+//Constructors & Destructors
 public:
 	Entity();
 	Entity(string name);
-	//copy constructor
+	//Constructor that copies another Entity's Variables
 	explicit Entity(const Entity& other);
 	~Entity();
-//!Structors
 
 //Functions
 public:
 	void Entity_SetPosition(float x, float y);
 	void Entity_SetName(string newName);
-	virtual string Entity_GetName() { return _name; }
+	virtual string Entity_GetName();
 	//Taken from iPrintable interface
-	string GetClassType() override { return "Entity"; }
-//!Functions
+	string GetClassType() override;
 
+};
 
-};//!
 
 #endif // !_ENT_H_

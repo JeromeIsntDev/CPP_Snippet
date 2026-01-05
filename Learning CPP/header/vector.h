@@ -3,8 +3,8 @@
 #ifndef _VEC_H_
 #define _VEC_H_
 
-#include "../header/log.h"
-#include <sstream>
+#include <string>
+#define string std::string
 
 struct Vector2 {
 	float x, y;
@@ -26,12 +26,24 @@ private:
 	}
 
 public:
-	Vector2 operator+(const Vector2& other) const;
-	Vector2 operator*(const Vector2& other) const;
-	bool operator==(const Vector2& other) const;
-	bool operator!=(const Vector2& other) const;
+	Vector2 operator+(const Vector2& other) const {
+		return Add(other);
+	}
+
+	Vector2 operator*(const Vector2& other) const {
+		return Multiply(other);
+	}
+
+	bool operator==(const Vector2& other) const {
+		return Equals(other);
+	}
+
+	bool operator!=(const Vector2& other) const {
+		return !(*this == other);
+	}
 };
 
+//Overloads the operator '<<' to allow for Vectors to be output directly
 std::ostream& operator<<(std::ostream& stream, const Vector2& other) {
 	stream << other.x << "," << other.y;
 	return stream;

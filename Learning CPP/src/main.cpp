@@ -2,10 +2,12 @@
 #include <vector>
 #include <array>
 #include "../header/log.h"
-#include "../header/iPrintable.h"
 #include "../header/entity.h"
 #include "../header/humanoid.h"
+#include "../header/iPrintable.h"
 #include "../header/vector.h"
+
+#ifndef _TEMPLATES_
 
 template <typename T>
 void PrintType(T value) {
@@ -19,10 +21,14 @@ void PrintClass(C value) {
 
 static void TemplateExample() {
 	//Templates
-	PrintType(2);
+	PrintType<int>(2);
 	PrintType<float>(2.1f);
 	PrintClass(new Vector2({ 1.f,1.f }));
 }
+
+#endif // !_TEMPLATES_
+
+#ifndef _CLASSES_
 
 static void PrintEntityName(Entity* ePointer) {
 	std::cout << "Entity Name: "
@@ -42,7 +48,6 @@ static void ClassExample() {
 	Humanoid* human = new Humanoid("Jerome");
 	Humanoid* human2 = new Humanoid;
 
-	//Showing the use of explicit copy
 	Entity entityCopy(*human);
 	Humanoid humanoidCopy(*human);
 
@@ -59,6 +64,10 @@ static void ClassExample() {
 	//To signify end of scope in console
 	Logger::PrintLog(WARNING, "Function End");
 }
+
+#endif // !_CLASSES_
+
+#ifndef _STRUCTS_AND_OPERATOR_OVERLOADING_
 
 static void StructAndOperatorOverloadingExample() {
 	Vector2 testV0(2.f, 5.f);
@@ -77,6 +86,10 @@ static void StructAndOperatorOverloadingExample() {
 	t = testV0 != testV1;
 	std::cout << "Vector2(x,y) If Not Equals: " << t << std::endl;
 }
+
+#endif // !_STRUCTS_AND_OPERATOR_OVERLOADING_
+
+#ifndef _ARRAYS_AND_FUNCTION_POINTER_
 
 static void PrintValue(int value) {
 	std::cout << "Value: " << value << std::endl;
@@ -104,8 +117,11 @@ static void DynamicArrayExample() {
 	ForEach(ints, PrintValue);
 	//Captcha Example with square brackets
 	Logger::PrintLog(INFO, "Printing ForEach using Captcha/Lambda Method [](int value)");
-	ForEach(ints, [](int value) 
-		{ std::cout << "Value: " << value << std::endl; });
+	ForEach(ints, 
+		[](int value) { 
+			std::cout << "Value: " << value << std::endl; 
+		}
+	);
 }
 
 static void StaticArrayExample() {
@@ -116,22 +132,18 @@ static void StaticArrayExample() {
 	}
 }
 
+#endif // !_ARRAYS_AND_FUNCTION_POINTER_
+
+
+//Comment and Uncomment Examples to see how things work
 int main() {
 	//ClassExample();
-	DynamicArrayExample();
+	//DynamicArrayExample();
 	//StaticArrayExample();
 	//StructAndOperatorOverloadingExample();
-	//TemplateExample();
-
-	//A reminder for myself on const
-	/*int val = 10;
-	const int* p_val1 = &val;
-	int* const p_val2 = &val;
-	p_val1 = p_val2;
-	p_val2 = p_val1;
-	*p_val1 = 3;
-	*p_val2 = 3;*/
+	TemplateExample();
 	
+	//Wait for user input
 	std::cin.get();
 
 	return 0;

@@ -1,202 +1,108 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\",
+  "WorkspaceRootPath": "C:\\Users\\Emorej\\Downloads\\CPP_Snippet_Guide\\C\u002B\u002B Snippet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6AA0BE0B-5B99-4C96-AE6A-72F10429408A}|Learning CPP.vcxproj|C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\src\\entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6AA0BE0B-5B99-4C96-AE6A-72F10429408A}|Learning CPP.vcxproj|solutionrelative:src\\entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AA0BE0B-5B99-4C96-AE6A-72F10429408A}|Learning CPP.vcxproj|C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\header\\entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6AA0BE0B-5B99-4C96-AE6A-72F10429408A}|Learning CPP.vcxproj|solutionrelative:header\\entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AA0BE0B-5B99-4C96-AE6A-72F10429408A}|Learning CPP.vcxproj|C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\header\\vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6AA0BE0B-5B99-4C96-AE6A-72F10429408A}|Learning CPP.vcxproj|C:\\Users\\Emorej\\Downloads\\CPP_Snippet_Guide\\C\u002B\u002B Snippet\\header\\vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6AA0BE0B-5B99-4C96-AE6A-72F10429408A}|Learning CPP.vcxproj|solutionrelative:header\\vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AA0BE0B-5B99-4C96-AE6A-72F10429408A}|Learning CPP.vcxproj|C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6AA0BE0B-5B99-4C96-AE6A-72F10429408A}|Learning CPP.vcxproj|C:\\Users\\Emorej\\Downloads\\CPP_Snippet_Guide\\C\u002B\u002B Snippet\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6AA0BE0B-5B99-4C96-AE6A-72F10429408A}|Learning CPP.vcxproj|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AA0BE0B-5B99-4C96-AE6A-72F10429408A}|Learning CPP.vcxproj|C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\src\\vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6AA0BE0B-5B99-4C96-AE6A-72F10429408A}|Learning CPP.vcxproj|solutionrelative:src\\vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AA0BE0B-5B99-4C96-AE6A-72F10429408A}|Learning CPP.vcxproj|C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\header\\humanoid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6AA0BE0B-5B99-4C96-AE6A-72F10429408A}|Learning CPP.vcxproj|solutionrelative:header\\humanoid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AA0BE0B-5B99-4C96-AE6A-72F10429408A}|Learning CPP.vcxproj|C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\header\\iPrintable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6AA0BE0B-5B99-4C96-AE6A-72F10429408A}|Learning CPP.vcxproj|solutionrelative:header\\iPrintable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AA0BE0B-5B99-4C96-AE6A-72F10429408A}|Learning CPP.vcxproj|C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\header\\log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6AA0BE0B-5B99-4C96-AE6A-72F10429408A}|Learning CPP.vcxproj|C:\\Users\\Emorej\\Downloads\\CPP_Snippet_Guide\\C\u002B\u002B Snippet\\header\\log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6AA0BE0B-5B99-4C96-AE6A-72F10429408A}|Learning CPP.vcxproj|solutionrelative:header\\log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AA0BE0B-5B99-4C96-AE6A-72F10429408A}|Learning CPP.vcxproj|C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\src\\iPrintable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6AA0BE0B-5B99-4C96-AE6A-72F10429408A}|Learning CPP.vcxproj|solutionrelative:src\\iPrintable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AA0BE0B-5B99-4C96-AE6A-72F10429408A}|Learning CPP.vcxproj|C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\src\\humanoid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6AA0BE0B-5B99-4C96-AE6A-72F10429408A}|Learning CPP.vcxproj|solutionrelative:src\\humanoid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AA0BE0B-5B99-4C96-AE6A-72F10429408A}|Learning CPP.vcxproj|C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\src\\log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6AA0BE0B-5B99-4C96-AE6A-72F10429408A}|Learning CPP.vcxproj|C:\\Users\\Emorej\\Downloads\\CPP_Snippet_Guide\\C\u002B\u002B Snippet\\src\\log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6AA0BE0B-5B99-4C96-AE6A-72F10429408A}|Learning CPP.vcxproj|solutionrelative:src\\log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA0BE0B-5B99-4C96-AE6A-72F10429408A}|Learning CPP.vcxproj|C:\\Users\\Emorej\\Downloads\\CPP_Snippet_Guide\\C\u002B\u002B Snippet\\src\\vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6AA0BE0B-5B99-4C96-AE6A-72F10429408A}|Learning CPP.vcxproj|solutionrelative:src\\vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 180,
+      "VerticalTabListWidth": 176,
       "DocumentGroups": [
         {
-          "DockedWidth": 291,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 196,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "vector.cpp",
-              "DocumentMoniker": "C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\src\\vector.cpp",
-              "RelativeDocumentMoniker": "src\\vector.cpp",
-              "ToolTip": "C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\src\\vector.cpp",
-              "RelativeToolTip": "src\\vector.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Emorej\\Downloads\\CPP_Snippet_Guide\\C\u002B\u002B Snippet\\src\\main.cpp",
+              "RelativeDocumentMoniker": "src\\main.cpp",
+              "ToolTip": "C:\\Users\\Emorej\\Downloads\\CPP_Snippet_Guide\\C\u002B\u002B Snippet\\src\\main.cpp",
+              "RelativeToolTip": "src\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-09T07:13:48.619Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "iPrintable.cpp",
-              "DocumentMoniker": "C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\src\\iPrintable.cpp",
-              "RelativeDocumentMoniker": "src\\iPrintable.cpp",
-              "ToolTip": "C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\src\\iPrintable.cpp",
-              "RelativeToolTip": "src\\iPrintable.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-09T03:57:08.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "humanoid.cpp",
-              "DocumentMoniker": "C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\src\\humanoid.cpp",
-              "RelativeDocumentMoniker": "src\\humanoid.cpp",
-              "ToolTip": "C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\src\\humanoid.cpp",
-              "RelativeToolTip": "src\\humanoid.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-08T07:48:07.03Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "entity.cpp",
-              "DocumentMoniker": "C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\src\\entity.cpp",
-              "RelativeDocumentMoniker": "src\\entity.cpp",
-              "ToolTip": "C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\src\\entity.cpp",
-              "RelativeToolTip": "src\\entity.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-08T06:37:43.029Z",
+              "WhenOpened": "2026-01-05T05:41:10.688Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "log.cpp",
-              "DocumentMoniker": "C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\src\\log.cpp",
-              "RelativeDocumentMoniker": "src\\log.cpp",
-              "ToolTip": "C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\src\\log.cpp",
-              "RelativeToolTip": "src\\log.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "vector.cpp",
+              "DocumentMoniker": "C:\\Users\\Emorej\\Downloads\\CPP_Snippet_Guide\\C\u002B\u002B Snippet\\src\\vector.cpp",
+              "RelativeDocumentMoniker": "src\\vector.cpp",
+              "ToolTip": "C:\\Users\\Emorej\\Downloads\\CPP_Snippet_Guide\\C\u002B\u002B Snippet\\src\\vector.cpp",
+              "RelativeToolTip": "src\\vector.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-08T05:33:40.308Z"
+              "WhenOpened": "2026-01-05T06:38:08.165Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\src\\main.cpp",
-              "RelativeDocumentMoniker": "src\\main.cpp",
-              "ToolTip": "C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\src\\main.cpp",
-              "RelativeToolTip": "src\\main.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Title": "log.cpp",
+              "DocumentMoniker": "C:\\Users\\Emorej\\Downloads\\CPP_Snippet_Guide\\C\u002B\u002B Snippet\\src\\log.cpp",
+              "RelativeDocumentMoniker": "src\\log.cpp",
+              "ToolTip": "C:\\Users\\Emorej\\Downloads\\CPP_Snippet_Guide\\C\u002B\u002B Snippet\\src\\log.cpp",
+              "RelativeToolTip": "src\\log.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-08T05:15:05.364Z",
+              "WhenOpened": "2026-01-05T06:37:48.188Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 291,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 196,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "vector.h",
-              "DocumentMoniker": "C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\header\\vector.h",
+              "DocumentMoniker": "C:\\Users\\Emorej\\Downloads\\CPP_Snippet_Guide\\C\u002B\u002B Snippet\\header\\vector.h",
               "RelativeDocumentMoniker": "header\\vector.h",
-              "ToolTip": "C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\header\\vector.h",
+              "ToolTip": "C:\\Users\\Emorej\\Downloads\\CPP_Snippet_Guide\\C\u002B\u002B Snippet\\header\\vector.h",
               "RelativeToolTip": "header\\vector.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-09T07:15:12.941Z",
+              "WhenOpened": "2026-01-05T06:38:07.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "humanoid.h",
-              "DocumentMoniker": "C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\header\\humanoid.h",
-              "RelativeDocumentMoniker": "header\\humanoid.h",
-              "ToolTip": "C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\header\\humanoid.h",
-              "RelativeToolTip": "header\\humanoid.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-08T07:47:53.201Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "iPrintable.h",
-              "DocumentMoniker": "C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\header\\iPrintable.h",
-              "RelativeDocumentMoniker": "header\\iPrintable.h",
-              "ToolTip": "C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\header\\iPrintable.h",
-              "RelativeToolTip": "header\\iPrintable.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-09T03:57:23.494Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "entity.h",
-              "DocumentMoniker": "C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\header\\entity.h",
-              "RelativeDocumentMoniker": "header\\entity.h",
-              "ToolTip": "C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\header\\entity.h",
-              "RelativeToolTip": "header\\entity.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-08T06:37:53.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "log.h",
-              "DocumentMoniker": "C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\header\\log.h",
+              "DocumentMoniker": "C:\\Users\\Emorej\\Downloads\\CPP_Snippet_Guide\\C\u002B\u002B Snippet\\header\\log.h",
               "RelativeDocumentMoniker": "header\\log.h",
-              "ToolTip": "C:\\Users\\Emorej\\Documents\\Code Stuff\\C\u002B\u002B Projects\\Learning CPP\\header\\log.h",
+              "ToolTip": "C:\\Users\\Emorej\\Downloads\\CPP_Snippet_Guide\\C\u002B\u002B Snippet\\header\\log.h",
               "RelativeToolTip": "header\\log.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-08T06:38:08.903Z"
+              "WhenOpened": "2026-01-05T06:37:48.797Z",
+              "EditorCaption": ""
             }
           ]
         }
